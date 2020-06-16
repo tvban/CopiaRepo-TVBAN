@@ -1,2 +1,2 @@
-# repoTVBAN
-Tu repo para Kodi
+# RepoTVBAN
+Tu **RepoTVBAN** para Kodi
